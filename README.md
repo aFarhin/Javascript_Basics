@@ -15,3 +15,11 @@ d. Questions solved on Function
 a. Dot Notation
 b. Bracket Notation
 c. Different ways to get value of objects
+
+3. Object Method :
+
+a. use of .this keyword
+b. calling object property as method
+c. accessing function type vale
+d. different ways of accessing properties of an object
+e. coding question on Method
