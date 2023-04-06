@@ -1,6 +1,6 @@
 # Javascript
 
-Here I have written codes on the basic topics of Javascript. which includes:
+Here I have written codes on the basic and advance topics of Javascript. which includes:
 
 1. Function :
 
