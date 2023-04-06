@@ -24,5 +24,5 @@ c. accessing function type vale
 d. different ways of accessing properties of an object
 e. coding question on Method
 
-3. Array Destructure
-4. Object Destructure
+4. Array Destructure
+5. Object Destructure
