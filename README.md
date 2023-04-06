@@ -1,4 +1,4 @@
-# Javascript_Basics
+# Javascript
 
 Here I have written codes on the basic topics of Javascript. which includes:
 
