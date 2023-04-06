@@ -23,3 +23,6 @@ b. calling object property as method
 c. accessing function type vale
 d. different ways of accessing properties of an object
 e. coding question on Method
+
+3. Array Destructure
+4. Object Destructure
