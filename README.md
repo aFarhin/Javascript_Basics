@@ -28,3 +28,5 @@ e. coding question on Method
 5. Object Destructure
 
 6. How FUNCTION, OBJECT , METHOD & CLASS works ?
+
+7. OOP
