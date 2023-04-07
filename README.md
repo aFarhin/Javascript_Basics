@@ -26,3 +26,5 @@ e. coding question on Method
 
 4. Array Destructure
 5. Object Destructure
+
+6. How FUNCTION, OBJECT , METHOD & CLASS works ?
