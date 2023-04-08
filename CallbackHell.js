@@ -1,7 +1,7 @@
 
 // 1. The program starts by calling the greet function with the takeOrder function passed as an argument
-// 2. The greet function is executed, and it first prints the string "Say Hello" to the console.
-// 3. Then, it calls the takeOrder function and passes the giveFood function as an argument.
+// 2. The greet function is executed and 
+// 3. It first prints the string "Say Hello" to the console.
 // 4. Then, it calls the takeOrder function and passes the giveFood function as an argument.
 function greet(takeOrder) {
     console.log("Say Hello");
