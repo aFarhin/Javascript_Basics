@@ -44,15 +44,18 @@ const farhan = {
 
 console.log(farhan.calAge()); 
 console.log(farhan.bestFriend());
-// here "calAge " and "bestFriend" are the methods which are being called by the object "farhan". so inside this method "this" variable will point to "farhan" object
+// here "calAge " and "bestFriend" are the methods which are being called by the object "farhan".
+//so inside this method "this" variable will point to "farhan" object
 
 //// necessity of this keyword////
-// if we need to change the object name, then we have to change all the method's object name. and if we by mistake forget to change then it will give syntax error. but using "this" keyword will not let us face this problem. 
+// if we need to change the object name, then we have to change all the method's object name. and if we by mistake forget to change then it will give syntax error. 
+/but using "this" keyword will not let us face this problem. 
 
 
 /////now suppose we need to call a "courseOn" method 5 times repeatedly to get value of course 5 times. so to stop DRY what we need to do?
 
-//we just need to create a 'course' property in the object with this variable. and call this property as many time as you want after calling the method only one time. let's see-
+//we just need to create a 'course' property in the object with this variable. and call this property as many time as you want after calling the method only one time.
+//let's see-
 
 const farhana= {
     course :'Acciojob',
@@ -90,11 +93,14 @@ console.log(neha.summary());
 // Coding Challenge on Object
 
 /*
-Let's go back to Mark and John comparing their BMIs! This time, let's use objects to implement the calculations! Remember: BMI = mass / height ** 2 = mass / (height * height). (mass in kg and height in meter)
+Let's go back to Mark and John comparing their BMIs! This time, let's use objects to implement the calculations! 
+//Remember: BMI = mass / height ** 2 = mass / (height * height). (mass in kg and height in meter)
 
 1. For each of them, create an object with properties for their full name, mass, and height (Mark Miller and John Smith)
-2. Create a 'calcBMI' method on each object to calculate the BMI (the same method on both objects). Store the BMI value to a property, and also return it from the method.
-3. Log to the console who has the higher BMI, together with the full name and the respective BMI. Example: "John Smith's BMI (28.3) is higher than Mark Miller's (23.9)!"
+2. Create a 'calcBMI' method on each object to calculate the BMI (the same method on both objects). Store the BMI value to a property, 
+and also return it from the method.
+3. Log to the console who has the higher BMI, together with the full name and the respective BMI. 
+Example: "John Smith's BMI (28.3) is higher than Mark Miller's (23.9)!"
 
 TEST DATA: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95 m tall.
 */
