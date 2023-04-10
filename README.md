@@ -32,7 +32,6 @@ e. coding question on Method
 7. OOP
 8. Callback Hell
 9. Promises
-
 10.Promises Chain
 11. Async-Await
 12. Scope
