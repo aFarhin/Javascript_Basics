@@ -38,3 +38,4 @@ e. coding question on Method
 13. Factory Function
 14. Different ways of creating object
 15.Encapsulation
+16. Private data
