@@ -36,3 +36,4 @@ e. coding question on Method
 11. Async-Await
 12. Scope
 13. Factory Function
+14. Different ways of creating object
