@@ -39,3 +39,7 @@ e. coding question on Method
 14. Different ways of creating object
 15.Encapsulation
 16. Private data
+17. Reduce method
+18. Map method
+19. Filter method
+20. Search method
