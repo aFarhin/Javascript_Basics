@@ -43,3 +43,4 @@ e. coding question on Method
 18. Map method
 19. Filter method
 20. Search method
+21. ES6
